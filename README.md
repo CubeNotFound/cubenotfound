@@ -2,7 +2,7 @@
 - 👀 I'm currently making a Minecraft Launcher
 - 🌱 I’m currently learning C#, Java and JS
 - 📫 Drop me a DM on Discord @2ndrw! (Or mail me at notcubeboy@gmail.com) 
-- ⚡ Fun fact: I quit making Minecraft Hacked clients
+- ⚡ Fun fact: BSG and [BastionDevs](https://GitHub.com/BastionDevs) founder
 
 <!---
 - 👋 Hi, I’m @ndrwcube
