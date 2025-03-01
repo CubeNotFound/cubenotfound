@@ -1,4 +1,5 @@
 - 👋 Hi, I’m CubeNotFound!
+- 👀 I play Minecraft (main Minemen FireballFight)
 - 🌱 Currently learning C#, Java and JS
 - 📫 notcubeboy@gmail.com
 - ⚡ Fun fact: BSG and [BastionDevs](https://GitHub.com/BastionDevs) founder
