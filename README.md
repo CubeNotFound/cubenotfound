@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Andrew!
-- 👀 I'm currently making a Minecraft Launcher
-- 🌱 I’m currently learning C#, Java and JS
-- 📫 Drop me a DM on Discord @2ndrw! (Or mail me at notcubeboy@gmail.com) 
+- 👋 Hi, I’m CubeNotFound!
+- 🌱 Currently learning C#, Java and JS
+- 📫 notcubeboy@gmail.com
 - ⚡ Fun fact: BSG and [BastionDevs](https://GitHub.com/BastionDevs) founder
 
 <!---
